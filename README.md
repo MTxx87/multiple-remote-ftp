@@ -16,6 +16,6 @@ Example
 
 Getting Started
 * create a /ftpconfigs folder under the project root
-* in the folder create as many .ftpconfig file as needed. Follow the naming name-name-name.ftpconfig.
+* in the folder create as many .ftpconfig file as needed. Follow the naming whatever-you-like.ftpconfig.
 * Packages > multiple-remote-ftp > toggle
 * select an ftp file from the dropdown 
