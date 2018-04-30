@@ -19,3 +19,5 @@ Getting Started
 * in the folder create as many .ftpconfig file as needed. Follow the naming "whatever-you-like.ftpconfig"
 * Packages > multiple-remote-ftp > toggle
 * select an ftp file from the dropdown 
+
+![image](https://github.com/matteotonini/multiple-remote-ftp/blob/master/screenshot1.png)
