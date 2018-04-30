@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle multiple-remote-ftp",
+        "command": "multiple-remote-ftp:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "multiple-remote-ftp",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "multiple-remote-ftp:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

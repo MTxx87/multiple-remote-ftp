@@ -1,0 +1,67 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.multiple-remote-ftp {
+  .mrftp-title {
+    font-size: initial;
+    text-align: center;
+  }
+  .mrftp-selected {
+    position: relative;
+    .mrftp-selected-label {
+      text-align: center;
+      cursor: pointer;
+      position: relative;
+      height: 25px;
+      line-height: 25px;
+    }
+    .mrftp-available {
+      position: relative;
+      background-color: #3a3f4b;
+      width: 100%;
+    }
+    .mrftp-available {
+      display: none;
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        cursor: pointer;
+        li {
+          padding-left: 17px;
+          height: 25px;
+          line-height: 25px;
+          background-color: #CCC;
+          color: #333;
+          &:hover {
+            color: #FFF;
+            background-color: #9da5b4;
+          }
+        }
+      }
+    }
+    &:hover {
+      background-color: #3a3f4b;
+      color: #FFF;
+    }
+    &.open {
+      background-color: #3a3f4b;
+      .mrftp-available {
+        display: block;
+      }
+    }
+    &:after {
+        content: ">";
+        position: absolute;
+        z-index: 10;
+        top: 0px;
+        line-height: 25px;
+        transform: rotate(90deg);
+        right: 15px;
+        cursor: pointer;
+    }
+  }
+}
