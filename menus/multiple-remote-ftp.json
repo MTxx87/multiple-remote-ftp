@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "multiple-remote-ftp",
+          "label": "Multiple Remote Ftp",
           "submenu": [
             {
               "label": "Toggle",
