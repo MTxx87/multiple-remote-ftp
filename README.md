@@ -2,9 +2,9 @@
 Plugin for Atom editor that adds possibility for multiple .ftpconfig files within a single project using Remote Ftp.
 It is useful when working with multiple server environments.
 
-DEPENDENCIES:
-Remote-Ftp https://github.com/icetee/remote-ftp
-Project Manager https://atom.io/packages/project-manager
+Dependencies:
+* Remote-Ftp https://github.com/icetee/remote-ftp
+* Project Manager https://atom.io/packages/project-manager
 
 Getting Started
 * create a /ftpconfigs folder under the project root
