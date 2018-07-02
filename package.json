@@ -2,7 +2,7 @@
   "name": "multiple-remote-ftp",
   "main": "./lib/multiple-remote-ftp",
   "version": "0.0.0",
-  "description": "Plugin for Atom editor that adds possibility for multiple Hosts (.ftpconfig) files in Remote",
+  "description": "Plugin for Atom editor that adds possibility for multiple Hosts (.ftpconfig) files. Requires 'Remote Ftp' plugin",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "multiple-remote-ftp:toggle"
