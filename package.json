@@ -1,7 +1,7 @@
 {
   "name": "multiple-remote-ftp",
   "main": "./lib/multiple-remote-ftp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Plugin for Atom editor that adds possibility for multiple Hosts (.ftpconfig) files. Requires 'Remote Ftp' plugin",
   "keywords": [],
   "activationCommands": {
