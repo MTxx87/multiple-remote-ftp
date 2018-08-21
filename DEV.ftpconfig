@@ -1,0 +1,18 @@
+{
+    "protocol": "ftp",
+    "host": "premium14.oderland.com",
+    "port": 21,
+    "user": "sswsnu",
+    "pass": "4pg0F3vl4D",
+    "promptForPass": false,
+    "remote": "/public_html/lara/wp-content/themes",
+    "secure": false,
+    "secureOptions": null,
+    "connTimeout": 10000,
+    "pasvTimeout": 10000,
+    "keepalive": 10000,
+    "watch" : [
+      "/dist/styles",
+      "/dist/scripts"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "protocol": "ftp",
+    "host": "premium5.oderland.com",
+    "port": 21,
+    "user": "solhagak",
+    "pass": "mm5Q7s5Ym2",
+    "promptForPass": false,
+    "remote": "/qa.xn--lra-qla.se/wp-content/themes",
+    "secure": false,
+    "secureOptions": null,
+    "connTimeout": 12000,
+    "pasvTimeout": 10000,
+    "keepalive": 10000,
+    "watch" : [
+      "dist/styles/main.css",
+      "dist/scripts/main.js"
+    ]
+}
