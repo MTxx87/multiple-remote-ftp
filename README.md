@@ -14,7 +14,15 @@ Dependencies:
 
 Getting Started
 * create a /ftpconfigs folder under the project root
-* under /ftpconfigs create as many .ftpconfig and .ftpignore files as needed, following the structure "ftpconfigs/{environment-name}/.ftpconfig" and "ftpconfigs/{environment-name}/.ftpignore" (Eg. ftpconfigs/development/.ftpconfig, ftpconfigs/development/.ftpignore, ftpconfigs/production/.ftpconfig,)
+* under /ftpconfigs create as many .ftpconfig and .ftpignore files as needed, following the structure:<br/>  "ftpconfigs/{environment-name}/.ftpconfig"<br/>
+"ftpconfigs/{environment-name}/.ftpignore"<br/>
+Eg.         
+  * /ftpconfigs
+    * /development
+      * .ftpconfig
+      * .ftpignore
+    * /production
+      * .ftpconfig
 * menu Packages > Multiple Remote Ftp > toggle
 * be sure to have Tree View open
 * select an ftp file from the dropdown
