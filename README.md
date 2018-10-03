@@ -20,7 +20,7 @@ Getting Started
 * select an ftp file from the dropdown
 * Remote FTP should connect to the selected server
 
-![image](https://github.com/matteotonini/multiple-remote-ftp/blob/master/screenshot2.png)
+![image](https://github.com/MTxx87/multiple-remote-ftp/blob/master/screenshot2.png)
 
 NOTES:
 * When an option is selected from the dropdown the plugin just copies the related {environment-name}/.ftpconfig and /.ftpignore in the root folder of your project  before triggering the command 'remote-ftp:connect'. It is not a particularly elegant solution, but I had/have no time to refine or going with a more elegant approach. I have to say that it worked without problems since day one and I use Atom on daily basis.

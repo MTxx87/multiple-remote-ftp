@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "multiple-remote-ftp:toggle"
   },
-  "repository": "https://github.com/matteotonini/multiple-remote-ftp",
+  "repository": "https://github.com/MTxx87/multiple-remote-ftp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
