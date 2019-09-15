@@ -1,6 +1,10 @@
 # Remote Ftp Multiple Hosts Add-On
 Plugin for Atom editor that adds possibility for multiple .ftpconfig and .ftpignore files within a single project using Remote Ftp. It is useful when working with multiple server environments.
 
+**IMPORTANT NOTE:**<br>
+**Over 3000 downloads on Atom repo and only few stars?<br>
+Please don't be shy, give it a star if you like it!!**
+
 **Version 1.0.0 VS 0.3.1:**
 Starting from version 1.0.0, I've added support for .ftpignore files.<br>
 For this reason, I decided to modify the configuration of the /ftpconfigs folder.<br>
